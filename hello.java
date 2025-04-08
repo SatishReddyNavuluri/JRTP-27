@@ -13,6 +13,7 @@ class Hello
 		{
 			System.out.prinltn("m2-hello");
 			int a=10;
+			int b=20;
 		}
 		
 	}
