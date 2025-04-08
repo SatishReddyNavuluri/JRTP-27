@@ -15,6 +15,11 @@ class Hello
 			int a=10;
 			int b=20;
 		}
+		//task-325
+		public void m3()
+		{
+			//logic
+		}
 		
 	}
 }
