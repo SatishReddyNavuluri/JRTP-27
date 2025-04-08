@@ -12,6 +12,7 @@ class Hello
 		public void m2()
 		{
 			System.out.prinltn("m2-hello");
+			int a=10;
 		}
 		
 	}
